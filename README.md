@@ -288,8 +288,6 @@ In the future, this project can be extended by:
 - Building a property price prediction model using Machine Learning.
 - Using SQL for more advanced data querying.
 
-> **Note:** These are planned improvements and are not part of the current project.
-
 
 ## 👨‍💻 Author
 

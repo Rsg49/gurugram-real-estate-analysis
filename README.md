@@ -295,7 +295,3 @@ In the future, this project can be extended by:
 
 **Rahul Singh Gaira**
 
-BCA Graduate | Aspiring Data Analyst
-
-
-## 🔗 GitHub Repository
